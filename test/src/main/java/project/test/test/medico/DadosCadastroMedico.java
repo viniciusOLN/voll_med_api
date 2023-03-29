@@ -8,4 +8,6 @@ public record DadosCadastroMedico(
         String crm,
         Especialidade especialidade,
         DadosEndereco endereco
-) {}
+) {
+
+}
